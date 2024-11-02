@@ -1,5 +1,0 @@
-streamlit
-openai
-pinecone-client
-matplotlib
-mysql-connector-python
